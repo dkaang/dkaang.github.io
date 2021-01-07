@@ -1,0 +1,44 @@
+body{
+    background-color: lightskyblue;
+}
+
+h1 {
+    margin-top: 200px;
+    margin-bottom: 150px;
+    font-size: 65px;
+    color: blue;
+}
+
+input[type="text"] {
+    background-color: lightcyan;
+
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: normal;
+
+    border: 3px solid blue;
+    border-radius: 2px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.button {
+    background-color: rgb(18, 159, 247);
+    height: 100px;
+    width: 300px;
+
+    margin-top: 25px;
+
+    border: none;
+    border-radius: 15px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
